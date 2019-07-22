@@ -1,0 +1,24 @@
+::placeholder{
+    color: #0d0fbb;
+    color: #ff0907;
+}
+.a{
+    background-color: chartreuse;
+}
+table{
+    background-color: darkviolet;
+    margin: 20px;
+}
+.p{
+    border: 50px;
+    border-collapse: collapse;
+    border: black solid;
+
+}
+th,td{
+    border: black solid;
+    border-collapse: collapse;
+}
+
+
+

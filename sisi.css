@@ -1,0 +1,22 @@
+#x{
+    color: #33fff8;
+}
+#y{
+    color: #6e7eff;
+}
+#z{
+    color: #ff1518;
+}
+#c{
+    background-color: #00ff3e;
+}
+
+table{
+    border: 2px solid #aeff37;
+    border-collapse: collapse;
+}
+th,td{
+
+    border: 2px solid #aeff37;
+    border-collapse: collapse;
+}
